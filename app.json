@@ -1,13 +1,12 @@
 {
   "name": "Threesixty",
   "description": "The 360-degree feedback tool for winners!",
-  "logo": "https://avatars1.githubusercontent.com/u/2737160",
   "keywords": [
     "django",
     "feedback",
     "postgresql"
   ],
-  "repository": "https://github.com/Thermondo/threesixty",
+  "repository": "https://github.com/OvoiDs/threesixty",
   "success_url": "/",
   "env": {
     "SECRET_KEY": {
