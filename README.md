@@ -13,7 +13,7 @@ It aims to be fun and scientific.
 
 Just click the button, duh!
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Thermondo/threesixty)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/OvoiDs/threesixty)
 
 You are too lazy to come up with your own set of questions?
 No problem we got you covered: [sample statements](https://github.com/Thermondo/threesixty-statements)
